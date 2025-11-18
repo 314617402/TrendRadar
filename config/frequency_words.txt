@@ -1,3 +1,9 @@
+听风的蚕
+朱唯一
+漯河市听风的蚕文化传播有限公司
+
+Agent
+
 DeepSeek
 梁文锋
 
@@ -23,25 +29,12 @@ DJI
 影之刃零
 梁其伟
 
-哪吒
-饺子
-杨宇
 !车
 !餐
 
-三体
-流浪地球
-刘慈欣
-郭帆
-
-京东
-刘强东
-
 字节
 bytedance
-张一鸣
 
-特斯拉
 马斯克
 
 微软
@@ -51,24 +44,8 @@ Microsoft
 NVIDIA
 黄仁勋
 
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
 chatgpt
 openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
@@ -91,9 +68,6 @@ ai
 科技
 
 核能
-
-水电站
-雅鲁藏布江
 
 新质生产力
 
